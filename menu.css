@@ -1,0 +1,22 @@
+html {background: url(mexican-tacos.jpg)no-repeat center center fixed; 
+      background-size:cover;
+      background-position: center;
+      color: antiquewhite;}
+
+.list { font-size: 30px;
+       font-weight:bolder ;
+       border: solid antiquewhite 20px;
+       border-radius: 100px;
+       font-family: 'Courier New', Courier, monospace;
+       line-height: 40px;
+       padding-top: 100px;  }
+
+    h2 {color: black;
+        margin-bottom: 20px;
+        padding-top: 40px;
+        padding-left: 200px;
+        padding-top: 30px;  }
+
+    .text {color: black;
+           margin-left: 50px;
+           margin-bottom: 70px; }

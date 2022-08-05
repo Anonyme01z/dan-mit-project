@@ -1,0 +1,13 @@
+html {background: url(wooden.jpg)no-repeat center center fixed; 
+      background-size:300%;
+      color: antiquewhite;
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+      font-size: larger;}
+
+h1 { border: solid antiquewhite 5px;
+     margin: 70px;
+    border-radius: 100px;}
+
+.contact {text-align: center;
+          padding-top: 100px;}
